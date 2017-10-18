@@ -1,0 +1,68 @@
+body{
+	
+	background-image: url("../images/vyakulaa.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.body{
+	background-color:#fff;
+	width:450px;
+	margin-left: 38%;
+	border-radius: 10px;
+	border: 2px solid #aac409;
+	padding: 5px;
+}
+
+.body input{
+	outline: none;
+	border:none;
+	border-bottom: 2px solid #aac409;
+	width: 230px;
+}
+h1{
+	font-family: arial;
+	text-align: center;
+	color: #aac409;
+}
+h3{
+	font-family: verdana;
+	font-size: 20px;
+}
+
+h2{
+	font-family: arial;
+	font-size: 30px;
+	color: #aac409;
+}
+
+h4{
+	font-color: #aac409;
+}
+
+.body form a{
+	margin-top: -55px;
+	float: right;
+	margin-right: 20px;
+	color: green;
+	font-size: 25px;
+}
+
+h6{
+	color: #aac409; 
+	float: right;
+	margin-right: 300px;
+	font-size: 20px;
+	font-family:arial;
+	margin-bottom: 5px;
+}
+
+table{
+	margin-left: 300px;
+	text-align: center;
+	width: 60%;
+	color:  #aac409;
+	background-color: white;
+	border-radius: 10px;
+	margin-bottom: 0px;
+}
